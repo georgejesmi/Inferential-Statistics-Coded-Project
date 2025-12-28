@@ -1,1 +1,48 @@
 # Inferential-Statistics-Coded-Project
+
+Analyze the datasets provided and use the concepts of Inferential Statistics to solve business problems and answer specific questions - insights on stone suitability for printing, the effectiveness of a fitness program, and the impact of dentists and implant methods on metal implant hardness - to enable data-driven decision-making and operational improvements.
+
+### Problem 1
+A physiotherapist with a male football team is interested in studying the relationship between foot injuries and the positions at which the players play from the data collected.
+
+<img width="657" height="283" alt="image" src="https://github.com/user-attachments/assets/c1f031b2-3d4d-4b88-ae16-f5d49021dfd3" />
+
+
+Based on the above data, answer the following questions.
+
+1.1 What is the probability that a randomly chosen player would suffer an injury?
+
+1.2 What is the probability that a player is a forward or a winger?
+
+1.3 What is the probability that a randomly chosen player plays in a striker position and has a foot injury?
+
+1.4 What is the probability that a randomly chosen injured player is a striker?
+
+### Problem 2
+The breaking strength of gunny bags used for packaging cement is normally distributed with a mean of 5 kg per sq. centimeter and a standard deviation of 1.5 kg per sq. centimeter. The quality team of the cement company wants to know the following about the packaging material to better understand wastage or pilferage within the supply chain; Answer the questions below based on the given information; (Provide an appropriate visual representation of your answers, without which marks will be deducted)
+
+2.1 What proportion of the gunny bags have a breaking strength of less than 3.17 kg per sq cm?
+
+2.2 What proportion of the gunny bags have a breaking strength of at least 3.6 kg per sq cm.?
+
+2.3 What proportion of the gunny bags have a breaking strength between 5 and 5.5 kg per sq cm.?
+
+2.4 What proportion of the gunny bags have a breaking strength NOT between 3 and 7.5 kg per sq cm.?
+
+### Problem 3
+Zingaro stone printing is a company that specializes in printing images or patterns on polished or unpolished stones. However, for the optimum level of printing of the image, the stone surface has to have a Brinell's hardness index of at least 150. Recently, Zingaro has received a batch of polished and unpolished stones from its clients. Use the data provided to answer the following (assuming a 5% significance level);
+
+3.1 Zingaro has reason to believe that the unpolished stones may not be suitable for printing. Do you think Zingaro is justified in thinking so?
+
+3.2 Is the mean hardness of the polished and unpolished stones the same?
+
+### Problem 4
+Dental implant data: The hardness of metal implants in dental cavities depends on multiple factors, such as the method of implant, the temperature at which the metal is treated, the alloy used as well as the dentists who may favor one method above another and may work better in his/her favorite method. The response is the variable of interest.
+
+4.1 How does the hardness of implants vary depending on dentists?
+
+4.2 How does the hardness of implants vary depending on methods?
+
+4.3 What is the interaction effect between the dentist and method on the hardness of dental implants for each type of alloy?
+
+4.4 How does the hardness of implants vary depending on dentists and methods together?
